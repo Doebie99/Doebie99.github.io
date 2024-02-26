@@ -1,0 +1,30 @@
+[
+    {
+        "image": "../Images/Battery.png",
+        "name": "Battery"
+    },
+    {
+        "image": "../Images/Electricity.png",
+        "name": "Electricity"
+    },
+    {
+        "image": "../Images/Hardhat.png",
+        "name": "Hardhat"
+    },
+    {
+        "image": "../Images/Hydro.png",
+        "name": "Hydro"
+    },
+    {
+        "image": "../Images/Lamp.png",
+        "name": "Lamp"
+    },
+    {
+        "image": "../Images/Tower.png",
+        "name": "Tower"
+    },
+    {
+        "image": "../Images/Turbine.png",
+        "name": "Turbine"
+    }
+    ]
